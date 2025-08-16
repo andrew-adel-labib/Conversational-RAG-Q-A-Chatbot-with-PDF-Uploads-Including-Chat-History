@@ -1,0 +1,14 @@
+python-dotenv
+streamlit
+sentence-transformers
+faiss-cpu
+pypdf
+openai
+langchain
+langchain-text-splitters
+langchain-openai
+langchain-community
+langchain-core
+langchain-groq
+langchain-chroma
+langchain-huggingface
